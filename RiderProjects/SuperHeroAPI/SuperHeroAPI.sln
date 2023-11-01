@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{386C0535-F4FF-41F7-9000-381BBC9EFFC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperHeroAPI", "SuperHeroAPI\SuperHeroAPI.csproj", "{75AA4534-D59E-487E-A9E2-269FD915C949}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{75AA4534-D59E-487E-A9E2-269FD915C949} = {386C0535-F4FF-41F7-9000-381BBC9EFFC9}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75AA4534-D59E-487E-A9E2-269FD915C949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75AA4534-D59E-487E-A9E2-269FD915C949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75AA4534-D59E-487E-A9E2-269FD915C949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75AA4534-D59E-487E-A9E2-269FD915C949}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

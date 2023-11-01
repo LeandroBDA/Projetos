@@ -1,0 +1,15 @@
+/home/leandrobezerra/Projetos/GerenciadorBiblio/bin/Debug/net6.0/GerenciadorBiblio
+/home/leandrobezerra/Projetos/GerenciadorBiblio/bin/Debug/net6.0/GerenciadorBiblio.deps.json
+/home/leandrobezerra/Projetos/GerenciadorBiblio/bin/Debug/net6.0/GerenciadorBiblio.runtimeconfig.json
+/home/leandrobezerra/Projetos/GerenciadorBiblio/bin/Debug/net6.0/GerenciadorBiblio.dll
+/home/leandrobezerra/Projetos/GerenciadorBiblio/bin/Debug/net6.0/GerenciadorBiblio.pdb
+/home/leandrobezerra/Projetos/GerenciadorBiblio/obj/Debug/net6.0/GerenciadorBiblio.csproj.AssemblyReference.cache
+/home/leandrobezerra/Projetos/GerenciadorBiblio/obj/Debug/net6.0/GerenciadorBiblio.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandrobezerra/Projetos/GerenciadorBiblio/obj/Debug/net6.0/GerenciadorBiblio.AssemblyInfoInputs.cache
+/home/leandrobezerra/Projetos/GerenciadorBiblio/obj/Debug/net6.0/GerenciadorBiblio.AssemblyInfo.cs
+/home/leandrobezerra/Projetos/GerenciadorBiblio/obj/Debug/net6.0/GerenciadorBiblio.csproj.CoreCompileInputs.cache
+/home/leandrobezerra/Projetos/GerenciadorBiblio/obj/Debug/net6.0/GerenciadorBiblio.dll
+/home/leandrobezerra/Projetos/GerenciadorBiblio/obj/Debug/net6.0/refint/GerenciadorBiblio.dll
+/home/leandrobezerra/Projetos/GerenciadorBiblio/obj/Debug/net6.0/GerenciadorBiblio.pdb
+/home/leandrobezerra/Projetos/GerenciadorBiblio/obj/Debug/net6.0/GerenciadorBiblio.genruntimeconfig.cache
+/home/leandrobezerra/Projetos/GerenciadorBiblio/obj/Debug/net6.0/ref/GerenciadorBiblio.dll

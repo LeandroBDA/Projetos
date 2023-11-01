@@ -1,0 +1,15 @@
+/home/leandrobezerra/Projetos/Concessonária/obj/Debug/net6.0/Concessonária.csproj.AssemblyReference.cache
+/home/leandrobezerra/Projetos/Concessonária/obj/Debug/net6.0/Concessonária.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandrobezerra/Projetos/Concessonária/obj/Debug/net6.0/Concessonária.AssemblyInfoInputs.cache
+/home/leandrobezerra/Projetos/Concessonária/obj/Debug/net6.0/Concessonária.AssemblyInfo.cs
+/home/leandrobezerra/Projetos/Concessonária/obj/Debug/net6.0/Concessonária.csproj.CoreCompileInputs.cache
+/home/leandrobezerra/Projetos/Concessonária/bin/Debug/net6.0/Concessonária
+/home/leandrobezerra/Projetos/Concessonária/bin/Debug/net6.0/Concessonária.deps.json
+/home/leandrobezerra/Projetos/Concessonária/bin/Debug/net6.0/Concessonária.runtimeconfig.json
+/home/leandrobezerra/Projetos/Concessonária/bin/Debug/net6.0/Concessonária.dll
+/home/leandrobezerra/Projetos/Concessonária/bin/Debug/net6.0/Concessonária.pdb
+/home/leandrobezerra/Projetos/Concessonária/obj/Debug/net6.0/Concessonária.dll
+/home/leandrobezerra/Projetos/Concessonária/obj/Debug/net6.0/refint/Concessonária.dll
+/home/leandrobezerra/Projetos/Concessonária/obj/Debug/net6.0/Concessonária.pdb
+/home/leandrobezerra/Projetos/Concessonária/obj/Debug/net6.0/Concessonária.genruntimeconfig.cache
+/home/leandrobezerra/Projetos/Concessonária/obj/Debug/net6.0/ref/Concessonária.dll

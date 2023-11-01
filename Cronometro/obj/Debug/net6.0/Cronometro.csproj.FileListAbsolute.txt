@@ -1,0 +1,15 @@
+/home/leandrobezerra/Cronometro/obj/Debug/net6.0/Cronometro.csproj.AssemblyReference.cache
+/home/leandrobezerra/Cronometro/obj/Debug/net6.0/Cronometro.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandrobezerra/Cronometro/obj/Debug/net6.0/Cronometro.AssemblyInfoInputs.cache
+/home/leandrobezerra/Cronometro/obj/Debug/net6.0/Cronometro.AssemblyInfo.cs
+/home/leandrobezerra/Cronometro/obj/Debug/net6.0/Cronometro.csproj.CoreCompileInputs.cache
+/home/leandrobezerra/Cronometro/bin/Debug/net6.0/Cronometro
+/home/leandrobezerra/Cronometro/bin/Debug/net6.0/Cronometro.deps.json
+/home/leandrobezerra/Cronometro/bin/Debug/net6.0/Cronometro.runtimeconfig.json
+/home/leandrobezerra/Cronometro/bin/Debug/net6.0/Cronometro.dll
+/home/leandrobezerra/Cronometro/bin/Debug/net6.0/Cronometro.pdb
+/home/leandrobezerra/Cronometro/obj/Debug/net6.0/Cronometro.dll
+/home/leandrobezerra/Cronometro/obj/Debug/net6.0/refint/Cronometro.dll
+/home/leandrobezerra/Cronometro/obj/Debug/net6.0/Cronometro.pdb
+/home/leandrobezerra/Cronometro/obj/Debug/net6.0/Cronometro.genruntimeconfig.cache
+/home/leandrobezerra/Cronometro/obj/Debug/net6.0/ref/Cronometro.dll

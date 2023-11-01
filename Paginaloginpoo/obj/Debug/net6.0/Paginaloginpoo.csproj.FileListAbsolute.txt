@@ -1,0 +1,15 @@
+/home/leandrobezerra/Projetos/Paginaloginpoo/obj/Debug/net6.0/Paginaloginpoo.csproj.AssemblyReference.cache
+/home/leandrobezerra/Projetos/Paginaloginpoo/obj/Debug/net6.0/Paginaloginpoo.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandrobezerra/Projetos/Paginaloginpoo/obj/Debug/net6.0/Paginaloginpoo.AssemblyInfoInputs.cache
+/home/leandrobezerra/Projetos/Paginaloginpoo/obj/Debug/net6.0/Paginaloginpoo.AssemblyInfo.cs
+/home/leandrobezerra/Projetos/Paginaloginpoo/obj/Debug/net6.0/Paginaloginpoo.csproj.CoreCompileInputs.cache
+/home/leandrobezerra/Projetos/Paginaloginpoo/bin/Debug/net6.0/Paginaloginpoo
+/home/leandrobezerra/Projetos/Paginaloginpoo/bin/Debug/net6.0/Paginaloginpoo.deps.json
+/home/leandrobezerra/Projetos/Paginaloginpoo/bin/Debug/net6.0/Paginaloginpoo.runtimeconfig.json
+/home/leandrobezerra/Projetos/Paginaloginpoo/bin/Debug/net6.0/Paginaloginpoo.dll
+/home/leandrobezerra/Projetos/Paginaloginpoo/bin/Debug/net6.0/Paginaloginpoo.pdb
+/home/leandrobezerra/Projetos/Paginaloginpoo/obj/Debug/net6.0/Paginaloginpoo.dll
+/home/leandrobezerra/Projetos/Paginaloginpoo/obj/Debug/net6.0/refint/Paginaloginpoo.dll
+/home/leandrobezerra/Projetos/Paginaloginpoo/obj/Debug/net6.0/Paginaloginpoo.pdb
+/home/leandrobezerra/Projetos/Paginaloginpoo/obj/Debug/net6.0/Paginaloginpoo.genruntimeconfig.cache
+/home/leandrobezerra/Projetos/Paginaloginpoo/obj/Debug/net6.0/ref/Paginaloginpoo.dll

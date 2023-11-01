@@ -1,0 +1,15 @@
+/home/leandrobezerra/Projetos/Wumpus/bin/Debug/net6.0/Wumpus
+/home/leandrobezerra/Projetos/Wumpus/bin/Debug/net6.0/Wumpus.deps.json
+/home/leandrobezerra/Projetos/Wumpus/bin/Debug/net6.0/Wumpus.runtimeconfig.json
+/home/leandrobezerra/Projetos/Wumpus/bin/Debug/net6.0/Wumpus.dll
+/home/leandrobezerra/Projetos/Wumpus/bin/Debug/net6.0/Wumpus.pdb
+/home/leandrobezerra/Projetos/Wumpus/obj/Debug/net6.0/Wumpus.csproj.AssemblyReference.cache
+/home/leandrobezerra/Projetos/Wumpus/obj/Debug/net6.0/Wumpus.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandrobezerra/Projetos/Wumpus/obj/Debug/net6.0/Wumpus.AssemblyInfoInputs.cache
+/home/leandrobezerra/Projetos/Wumpus/obj/Debug/net6.0/Wumpus.AssemblyInfo.cs
+/home/leandrobezerra/Projetos/Wumpus/obj/Debug/net6.0/Wumpus.csproj.CoreCompileInputs.cache
+/home/leandrobezerra/Projetos/Wumpus/obj/Debug/net6.0/Wumpus.dll
+/home/leandrobezerra/Projetos/Wumpus/obj/Debug/net6.0/refint/Wumpus.dll
+/home/leandrobezerra/Projetos/Wumpus/obj/Debug/net6.0/Wumpus.pdb
+/home/leandrobezerra/Projetos/Wumpus/obj/Debug/net6.0/Wumpus.genruntimeconfig.cache
+/home/leandrobezerra/Projetos/Wumpus/obj/Debug/net6.0/ref/Wumpus.dll

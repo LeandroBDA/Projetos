@@ -1,0 +1,15 @@
+/home/leandrobezerra/MaioreMenor/obj/Debug/net6.0/MaioreMenor.csproj.AssemblyReference.cache
+/home/leandrobezerra/MaioreMenor/obj/Debug/net6.0/MaioreMenor.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandrobezerra/MaioreMenor/obj/Debug/net6.0/MaioreMenor.AssemblyInfoInputs.cache
+/home/leandrobezerra/MaioreMenor/obj/Debug/net6.0/MaioreMenor.AssemblyInfo.cs
+/home/leandrobezerra/MaioreMenor/obj/Debug/net6.0/MaioreMenor.csproj.CoreCompileInputs.cache
+/home/leandrobezerra/MaioreMenor/bin/Debug/net6.0/MaioreMenor
+/home/leandrobezerra/MaioreMenor/bin/Debug/net6.0/MaioreMenor.deps.json
+/home/leandrobezerra/MaioreMenor/bin/Debug/net6.0/MaioreMenor.runtimeconfig.json
+/home/leandrobezerra/MaioreMenor/bin/Debug/net6.0/MaioreMenor.dll
+/home/leandrobezerra/MaioreMenor/bin/Debug/net6.0/MaioreMenor.pdb
+/home/leandrobezerra/MaioreMenor/obj/Debug/net6.0/MaioreMenor.dll
+/home/leandrobezerra/MaioreMenor/obj/Debug/net6.0/refint/MaioreMenor.dll
+/home/leandrobezerra/MaioreMenor/obj/Debug/net6.0/MaioreMenor.pdb
+/home/leandrobezerra/MaioreMenor/obj/Debug/net6.0/MaioreMenor.genruntimeconfig.cache
+/home/leandrobezerra/MaioreMenor/obj/Debug/net6.0/ref/MaioreMenor.dll

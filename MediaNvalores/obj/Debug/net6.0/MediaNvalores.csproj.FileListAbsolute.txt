@@ -1,0 +1,15 @@
+/home/leandrobezerra/MediaNvalores/bin/Debug/net6.0/MediaNvalores
+/home/leandrobezerra/MediaNvalores/bin/Debug/net6.0/MediaNvalores.deps.json
+/home/leandrobezerra/MediaNvalores/bin/Debug/net6.0/MediaNvalores.runtimeconfig.json
+/home/leandrobezerra/MediaNvalores/bin/Debug/net6.0/MediaNvalores.dll
+/home/leandrobezerra/MediaNvalores/bin/Debug/net6.0/MediaNvalores.pdb
+/home/leandrobezerra/MediaNvalores/obj/Debug/net6.0/MediaNvalores.csproj.AssemblyReference.cache
+/home/leandrobezerra/MediaNvalores/obj/Debug/net6.0/MediaNvalores.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandrobezerra/MediaNvalores/obj/Debug/net6.0/MediaNvalores.AssemblyInfoInputs.cache
+/home/leandrobezerra/MediaNvalores/obj/Debug/net6.0/MediaNvalores.AssemblyInfo.cs
+/home/leandrobezerra/MediaNvalores/obj/Debug/net6.0/MediaNvalores.csproj.CoreCompileInputs.cache
+/home/leandrobezerra/MediaNvalores/obj/Debug/net6.0/MediaNvalores.dll
+/home/leandrobezerra/MediaNvalores/obj/Debug/net6.0/refint/MediaNvalores.dll
+/home/leandrobezerra/MediaNvalores/obj/Debug/net6.0/MediaNvalores.pdb
+/home/leandrobezerra/MediaNvalores/obj/Debug/net6.0/MediaNvalores.genruntimeconfig.cache
+/home/leandrobezerra/MediaNvalores/obj/Debug/net6.0/ref/MediaNvalores.dll

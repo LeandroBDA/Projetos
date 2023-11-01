@@ -1,0 +1,15 @@
+/home/leandrobezerra/ParImpar/bin/Debug/net6.0/ParImpar
+/home/leandrobezerra/ParImpar/bin/Debug/net6.0/ParImpar.deps.json
+/home/leandrobezerra/ParImpar/bin/Debug/net6.0/ParImpar.runtimeconfig.json
+/home/leandrobezerra/ParImpar/bin/Debug/net6.0/ParImpar.dll
+/home/leandrobezerra/ParImpar/bin/Debug/net6.0/ParImpar.pdb
+/home/leandrobezerra/ParImpar/obj/Debug/net6.0/ParImpar.csproj.AssemblyReference.cache
+/home/leandrobezerra/ParImpar/obj/Debug/net6.0/ParImpar.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandrobezerra/ParImpar/obj/Debug/net6.0/ParImpar.AssemblyInfoInputs.cache
+/home/leandrobezerra/ParImpar/obj/Debug/net6.0/ParImpar.AssemblyInfo.cs
+/home/leandrobezerra/ParImpar/obj/Debug/net6.0/ParImpar.csproj.CoreCompileInputs.cache
+/home/leandrobezerra/ParImpar/obj/Debug/net6.0/ParImpar.dll
+/home/leandrobezerra/ParImpar/obj/Debug/net6.0/refint/ParImpar.dll
+/home/leandrobezerra/ParImpar/obj/Debug/net6.0/ParImpar.pdb
+/home/leandrobezerra/ParImpar/obj/Debug/net6.0/ParImpar.genruntimeconfig.cache
+/home/leandrobezerra/ParImpar/obj/Debug/net6.0/ref/ParImpar.dll

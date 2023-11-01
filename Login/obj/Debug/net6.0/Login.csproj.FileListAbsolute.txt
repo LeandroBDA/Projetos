@@ -1,0 +1,15 @@
+/home/leandrobezerra/Projetos/Login/bin/Debug/net6.0/Login
+/home/leandrobezerra/Projetos/Login/bin/Debug/net6.0/Login.deps.json
+/home/leandrobezerra/Projetos/Login/bin/Debug/net6.0/Login.runtimeconfig.json
+/home/leandrobezerra/Projetos/Login/bin/Debug/net6.0/Login.dll
+/home/leandrobezerra/Projetos/Login/bin/Debug/net6.0/Login.pdb
+/home/leandrobezerra/Projetos/Login/obj/Debug/net6.0/Login.csproj.AssemblyReference.cache
+/home/leandrobezerra/Projetos/Login/obj/Debug/net6.0/Login.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandrobezerra/Projetos/Login/obj/Debug/net6.0/Login.AssemblyInfoInputs.cache
+/home/leandrobezerra/Projetos/Login/obj/Debug/net6.0/Login.AssemblyInfo.cs
+/home/leandrobezerra/Projetos/Login/obj/Debug/net6.0/Login.csproj.CoreCompileInputs.cache
+/home/leandrobezerra/Projetos/Login/obj/Debug/net6.0/Login.dll
+/home/leandrobezerra/Projetos/Login/obj/Debug/net6.0/refint/Login.dll
+/home/leandrobezerra/Projetos/Login/obj/Debug/net6.0/Login.pdb
+/home/leandrobezerra/Projetos/Login/obj/Debug/net6.0/Login.genruntimeconfig.cache
+/home/leandrobezerra/Projetos/Login/obj/Debug/net6.0/ref/Login.dll

@@ -1,0 +1,15 @@
+/home/leandrobezerra/Projetos/POO/obj/Debug/net6.0/POO.csproj.AssemblyReference.cache
+/home/leandrobezerra/Projetos/POO/obj/Debug/net6.0/POO.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandrobezerra/Projetos/POO/obj/Debug/net6.0/POO.AssemblyInfoInputs.cache
+/home/leandrobezerra/Projetos/POO/obj/Debug/net6.0/POO.AssemblyInfo.cs
+/home/leandrobezerra/Projetos/POO/obj/Debug/net6.0/POO.csproj.CoreCompileInputs.cache
+/home/leandrobezerra/Projetos/POO/bin/Debug/net6.0/POO
+/home/leandrobezerra/Projetos/POO/bin/Debug/net6.0/POO.deps.json
+/home/leandrobezerra/Projetos/POO/bin/Debug/net6.0/POO.runtimeconfig.json
+/home/leandrobezerra/Projetos/POO/bin/Debug/net6.0/POO.dll
+/home/leandrobezerra/Projetos/POO/bin/Debug/net6.0/POO.pdb
+/home/leandrobezerra/Projetos/POO/obj/Debug/net6.0/POO.dll
+/home/leandrobezerra/Projetos/POO/obj/Debug/net6.0/refint/POO.dll
+/home/leandrobezerra/Projetos/POO/obj/Debug/net6.0/POO.pdb
+/home/leandrobezerra/Projetos/POO/obj/Debug/net6.0/POO.genruntimeconfig.cache
+/home/leandrobezerra/Projetos/POO/obj/Debug/net6.0/ref/POO.dll

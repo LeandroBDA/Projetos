@@ -1,0 +1,15 @@
+/home/leandrobezerra/EditorHtml/bin/Debug/net6.0/EditorHtml
+/home/leandrobezerra/EditorHtml/bin/Debug/net6.0/EditorHtml.deps.json
+/home/leandrobezerra/EditorHtml/bin/Debug/net6.0/EditorHtml.runtimeconfig.json
+/home/leandrobezerra/EditorHtml/bin/Debug/net6.0/EditorHtml.dll
+/home/leandrobezerra/EditorHtml/bin/Debug/net6.0/EditorHtml.pdb
+/home/leandrobezerra/EditorHtml/obj/Debug/net6.0/EditorHtml.csproj.AssemblyReference.cache
+/home/leandrobezerra/EditorHtml/obj/Debug/net6.0/EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandrobezerra/EditorHtml/obj/Debug/net6.0/EditorHtml.AssemblyInfoInputs.cache
+/home/leandrobezerra/EditorHtml/obj/Debug/net6.0/EditorHtml.AssemblyInfo.cs
+/home/leandrobezerra/EditorHtml/obj/Debug/net6.0/EditorHtml.csproj.CoreCompileInputs.cache
+/home/leandrobezerra/EditorHtml/obj/Debug/net6.0/EditorHtml.dll
+/home/leandrobezerra/EditorHtml/obj/Debug/net6.0/refint/EditorHtml.dll
+/home/leandrobezerra/EditorHtml/obj/Debug/net6.0/EditorHtml.pdb
+/home/leandrobezerra/EditorHtml/obj/Debug/net6.0/EditorHtml.genruntimeconfig.cache
+/home/leandrobezerra/EditorHtml/obj/Debug/net6.0/ref/EditorHtml.dll

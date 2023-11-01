@@ -1,0 +1,15 @@
+/home/leandrobezerra/Projetos/CalculatorPOO/bin/Debug/net6.0/CalculatorPOO
+/home/leandrobezerra/Projetos/CalculatorPOO/bin/Debug/net6.0/CalculatorPOO.deps.json
+/home/leandrobezerra/Projetos/CalculatorPOO/bin/Debug/net6.0/CalculatorPOO.runtimeconfig.json
+/home/leandrobezerra/Projetos/CalculatorPOO/bin/Debug/net6.0/CalculatorPOO.dll
+/home/leandrobezerra/Projetos/CalculatorPOO/bin/Debug/net6.0/CalculatorPOO.pdb
+/home/leandrobezerra/Projetos/CalculatorPOO/obj/Debug/net6.0/CalculatorPOO.csproj.AssemblyReference.cache
+/home/leandrobezerra/Projetos/CalculatorPOO/obj/Debug/net6.0/CalculatorPOO.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandrobezerra/Projetos/CalculatorPOO/obj/Debug/net6.0/CalculatorPOO.AssemblyInfoInputs.cache
+/home/leandrobezerra/Projetos/CalculatorPOO/obj/Debug/net6.0/CalculatorPOO.AssemblyInfo.cs
+/home/leandrobezerra/Projetos/CalculatorPOO/obj/Debug/net6.0/CalculatorPOO.csproj.CoreCompileInputs.cache
+/home/leandrobezerra/Projetos/CalculatorPOO/obj/Debug/net6.0/CalculatorPOO.dll
+/home/leandrobezerra/Projetos/CalculatorPOO/obj/Debug/net6.0/refint/CalculatorPOO.dll
+/home/leandrobezerra/Projetos/CalculatorPOO/obj/Debug/net6.0/CalculatorPOO.pdb
+/home/leandrobezerra/Projetos/CalculatorPOO/obj/Debug/net6.0/CalculatorPOO.genruntimeconfig.cache
+/home/leandrobezerra/Projetos/CalculatorPOO/obj/Debug/net6.0/ref/CalculatorPOO.dll

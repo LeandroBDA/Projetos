@@ -1,0 +1,15 @@
+/home/leandrobezerra/MaiorMenorNumero/obj/Debug/net6.0/MaiorMenorNumero.csproj.AssemblyReference.cache
+/home/leandrobezerra/MaiorMenorNumero/obj/Debug/net6.0/MaiorMenorNumero.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandrobezerra/MaiorMenorNumero/obj/Debug/net6.0/MaiorMenorNumero.AssemblyInfoInputs.cache
+/home/leandrobezerra/MaiorMenorNumero/obj/Debug/net6.0/MaiorMenorNumero.AssemblyInfo.cs
+/home/leandrobezerra/MaiorMenorNumero/obj/Debug/net6.0/MaiorMenorNumero.csproj.CoreCompileInputs.cache
+/home/leandrobezerra/MaiorMenorNumero/bin/Debug/net6.0/MaiorMenorNumero
+/home/leandrobezerra/MaiorMenorNumero/bin/Debug/net6.0/MaiorMenorNumero.deps.json
+/home/leandrobezerra/MaiorMenorNumero/bin/Debug/net6.0/MaiorMenorNumero.runtimeconfig.json
+/home/leandrobezerra/MaiorMenorNumero/bin/Debug/net6.0/MaiorMenorNumero.dll
+/home/leandrobezerra/MaiorMenorNumero/bin/Debug/net6.0/MaiorMenorNumero.pdb
+/home/leandrobezerra/MaiorMenorNumero/obj/Debug/net6.0/MaiorMenorNumero.dll
+/home/leandrobezerra/MaiorMenorNumero/obj/Debug/net6.0/refint/MaiorMenorNumero.dll
+/home/leandrobezerra/MaiorMenorNumero/obj/Debug/net6.0/MaiorMenorNumero.pdb
+/home/leandrobezerra/MaiorMenorNumero/obj/Debug/net6.0/MaiorMenorNumero.genruntimeconfig.cache
+/home/leandrobezerra/MaiorMenorNumero/obj/Debug/net6.0/ref/MaiorMenorNumero.dll

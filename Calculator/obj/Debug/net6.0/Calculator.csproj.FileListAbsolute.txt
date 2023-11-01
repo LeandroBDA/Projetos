@@ -1,0 +1,15 @@
+/home/leandrobezerra/Calculator/obj/Debug/net6.0/Calculator.csproj.AssemblyReference.cache
+/home/leandrobezerra/Calculator/obj/Debug/net6.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandrobezerra/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfoInputs.cache
+/home/leandrobezerra/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfo.cs
+/home/leandrobezerra/Calculator/obj/Debug/net6.0/Calculator.csproj.CoreCompileInputs.cache
+/home/leandrobezerra/Calculator/bin/Debug/net6.0/Calculator
+/home/leandrobezerra/Calculator/bin/Debug/net6.0/Calculator.deps.json
+/home/leandrobezerra/Calculator/bin/Debug/net6.0/Calculator.runtimeconfig.json
+/home/leandrobezerra/Calculator/bin/Debug/net6.0/Calculator.dll
+/home/leandrobezerra/Calculator/bin/Debug/net6.0/Calculator.pdb
+/home/leandrobezerra/Calculator/obj/Debug/net6.0/Calculator.dll
+/home/leandrobezerra/Calculator/obj/Debug/net6.0/refint/Calculator.dll
+/home/leandrobezerra/Calculator/obj/Debug/net6.0/Calculator.pdb
+/home/leandrobezerra/Calculator/obj/Debug/net6.0/Calculator.genruntimeconfig.cache
+/home/leandrobezerra/Calculator/obj/Debug/net6.0/ref/Calculator.dll

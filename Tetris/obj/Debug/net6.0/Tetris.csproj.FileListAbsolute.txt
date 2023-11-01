@@ -1,0 +1,15 @@
+/home/leandrobezerra/Projetos/Tetris/obj/Debug/net6.0/Tetris.csproj.AssemblyReference.cache
+/home/leandrobezerra/Projetos/Tetris/obj/Debug/net6.0/Tetris.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandrobezerra/Projetos/Tetris/obj/Debug/net6.0/Tetris.AssemblyInfoInputs.cache
+/home/leandrobezerra/Projetos/Tetris/obj/Debug/net6.0/Tetris.AssemblyInfo.cs
+/home/leandrobezerra/Projetos/Tetris/obj/Debug/net6.0/Tetris.csproj.CoreCompileInputs.cache
+/home/leandrobezerra/Projetos/Tetris/bin/Debug/net6.0/Tetris
+/home/leandrobezerra/Projetos/Tetris/bin/Debug/net6.0/Tetris.deps.json
+/home/leandrobezerra/Projetos/Tetris/bin/Debug/net6.0/Tetris.runtimeconfig.json
+/home/leandrobezerra/Projetos/Tetris/bin/Debug/net6.0/Tetris.dll
+/home/leandrobezerra/Projetos/Tetris/bin/Debug/net6.0/Tetris.pdb
+/home/leandrobezerra/Projetos/Tetris/obj/Debug/net6.0/Tetris.dll
+/home/leandrobezerra/Projetos/Tetris/obj/Debug/net6.0/refint/Tetris.dll
+/home/leandrobezerra/Projetos/Tetris/obj/Debug/net6.0/Tetris.pdb
+/home/leandrobezerra/Projetos/Tetris/obj/Debug/net6.0/Tetris.genruntimeconfig.cache
+/home/leandrobezerra/Projetos/Tetris/obj/Debug/net6.0/ref/Tetris.dll

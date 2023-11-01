@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MédiaARi/1.0.0": {
+        "runtime": {
+          "MédiaARi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MédiaARi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

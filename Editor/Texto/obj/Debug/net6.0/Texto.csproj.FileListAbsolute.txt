@@ -1,0 +1,15 @@
+/home/leandrobezerra/Editor/Texto/obj/Debug/net6.0/Texto.csproj.AssemblyReference.cache
+/home/leandrobezerra/Editor/Texto/obj/Debug/net6.0/Texto.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandrobezerra/Editor/Texto/obj/Debug/net6.0/Texto.AssemblyInfoInputs.cache
+/home/leandrobezerra/Editor/Texto/obj/Debug/net6.0/Texto.AssemblyInfo.cs
+/home/leandrobezerra/Editor/Texto/obj/Debug/net6.0/Texto.csproj.CoreCompileInputs.cache
+/home/leandrobezerra/Editor/Texto/bin/Debug/net6.0/Texto
+/home/leandrobezerra/Editor/Texto/bin/Debug/net6.0/Texto.deps.json
+/home/leandrobezerra/Editor/Texto/bin/Debug/net6.0/Texto.runtimeconfig.json
+/home/leandrobezerra/Editor/Texto/bin/Debug/net6.0/Texto.dll
+/home/leandrobezerra/Editor/Texto/bin/Debug/net6.0/Texto.pdb
+/home/leandrobezerra/Editor/Texto/obj/Debug/net6.0/Texto.dll
+/home/leandrobezerra/Editor/Texto/obj/Debug/net6.0/refint/Texto.dll
+/home/leandrobezerra/Editor/Texto/obj/Debug/net6.0/Texto.pdb
+/home/leandrobezerra/Editor/Texto/obj/Debug/net6.0/Texto.genruntimeconfig.cache
+/home/leandrobezerra/Editor/Texto/obj/Debug/net6.0/ref/Texto.dll

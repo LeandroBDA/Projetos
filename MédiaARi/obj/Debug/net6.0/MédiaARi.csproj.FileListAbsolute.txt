@@ -1,0 +1,15 @@
+/home/leandrobezerra/MédiaARi/bin/Debug/net6.0/MédiaARi
+/home/leandrobezerra/MédiaARi/bin/Debug/net6.0/MédiaARi.deps.json
+/home/leandrobezerra/MédiaARi/bin/Debug/net6.0/MédiaARi.runtimeconfig.json
+/home/leandrobezerra/MédiaARi/bin/Debug/net6.0/MédiaARi.dll
+/home/leandrobezerra/MédiaARi/bin/Debug/net6.0/MédiaARi.pdb
+/home/leandrobezerra/MédiaARi/obj/Debug/net6.0/MédiaARi.csproj.AssemblyReference.cache
+/home/leandrobezerra/MédiaARi/obj/Debug/net6.0/MédiaARi.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandrobezerra/MédiaARi/obj/Debug/net6.0/MédiaARi.AssemblyInfoInputs.cache
+/home/leandrobezerra/MédiaARi/obj/Debug/net6.0/MédiaARi.AssemblyInfo.cs
+/home/leandrobezerra/MédiaARi/obj/Debug/net6.0/MédiaARi.csproj.CoreCompileInputs.cache
+/home/leandrobezerra/MédiaARi/obj/Debug/net6.0/MédiaARi.dll
+/home/leandrobezerra/MédiaARi/obj/Debug/net6.0/refint/MédiaARi.dll
+/home/leandrobezerra/MédiaARi/obj/Debug/net6.0/MédiaARi.pdb
+/home/leandrobezerra/MédiaARi/obj/Debug/net6.0/MédiaARi.genruntimeconfig.cache
+/home/leandrobezerra/MédiaARi/obj/Debug/net6.0/ref/MédiaARi.dll

@@ -1,0 +1,15 @@
+/home/leandrobezerra/Projetos/String/bin/Debug/net6.0/String
+/home/leandrobezerra/Projetos/String/bin/Debug/net6.0/String.deps.json
+/home/leandrobezerra/Projetos/String/bin/Debug/net6.0/String.runtimeconfig.json
+/home/leandrobezerra/Projetos/String/bin/Debug/net6.0/String.dll
+/home/leandrobezerra/Projetos/String/bin/Debug/net6.0/String.pdb
+/home/leandrobezerra/Projetos/String/obj/Debug/net6.0/String.csproj.AssemblyReference.cache
+/home/leandrobezerra/Projetos/String/obj/Debug/net6.0/String.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandrobezerra/Projetos/String/obj/Debug/net6.0/String.AssemblyInfoInputs.cache
+/home/leandrobezerra/Projetos/String/obj/Debug/net6.0/String.AssemblyInfo.cs
+/home/leandrobezerra/Projetos/String/obj/Debug/net6.0/String.csproj.CoreCompileInputs.cache
+/home/leandrobezerra/Projetos/String/obj/Debug/net6.0/String.dll
+/home/leandrobezerra/Projetos/String/obj/Debug/net6.0/refint/String.dll
+/home/leandrobezerra/Projetos/String/obj/Debug/net6.0/String.pdb
+/home/leandrobezerra/Projetos/String/obj/Debug/net6.0/String.genruntimeconfig.cache
+/home/leandrobezerra/Projetos/String/obj/Debug/net6.0/ref/String.dll

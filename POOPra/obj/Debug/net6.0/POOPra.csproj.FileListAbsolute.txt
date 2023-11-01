@@ -1,0 +1,15 @@
+/home/leandrobezerra/Projetos/POOPra/bin/Debug/net6.0/POOPra
+/home/leandrobezerra/Projetos/POOPra/bin/Debug/net6.0/POOPra.deps.json
+/home/leandrobezerra/Projetos/POOPra/bin/Debug/net6.0/POOPra.runtimeconfig.json
+/home/leandrobezerra/Projetos/POOPra/bin/Debug/net6.0/POOPra.dll
+/home/leandrobezerra/Projetos/POOPra/bin/Debug/net6.0/POOPra.pdb
+/home/leandrobezerra/Projetos/POOPra/obj/Debug/net6.0/POOPra.csproj.AssemblyReference.cache
+/home/leandrobezerra/Projetos/POOPra/obj/Debug/net6.0/POOPra.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandrobezerra/Projetos/POOPra/obj/Debug/net6.0/POOPra.AssemblyInfoInputs.cache
+/home/leandrobezerra/Projetos/POOPra/obj/Debug/net6.0/POOPra.AssemblyInfo.cs
+/home/leandrobezerra/Projetos/POOPra/obj/Debug/net6.0/POOPra.csproj.CoreCompileInputs.cache
+/home/leandrobezerra/Projetos/POOPra/obj/Debug/net6.0/POOPra.dll
+/home/leandrobezerra/Projetos/POOPra/obj/Debug/net6.0/refint/POOPra.dll
+/home/leandrobezerra/Projetos/POOPra/obj/Debug/net6.0/POOPra.pdb
+/home/leandrobezerra/Projetos/POOPra/obj/Debug/net6.0/POOPra.genruntimeconfig.cache
+/home/leandrobezerra/Projetos/POOPra/obj/Debug/net6.0/ref/POOPra.dll

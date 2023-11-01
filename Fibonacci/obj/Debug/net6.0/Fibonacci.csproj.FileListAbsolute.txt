@@ -1,0 +1,15 @@
+/home/leandrobezerra/Projetos/Fibonacci/obj/Debug/net6.0/Fibonacci.csproj.AssemblyReference.cache
+/home/leandrobezerra/Projetos/Fibonacci/obj/Debug/net6.0/Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandrobezerra/Projetos/Fibonacci/obj/Debug/net6.0/Fibonacci.AssemblyInfoInputs.cache
+/home/leandrobezerra/Projetos/Fibonacci/obj/Debug/net6.0/Fibonacci.AssemblyInfo.cs
+/home/leandrobezerra/Projetos/Fibonacci/obj/Debug/net6.0/Fibonacci.csproj.CoreCompileInputs.cache
+/home/leandrobezerra/Projetos/Fibonacci/bin/Debug/net6.0/Fibonacci
+/home/leandrobezerra/Projetos/Fibonacci/bin/Debug/net6.0/Fibonacci.deps.json
+/home/leandrobezerra/Projetos/Fibonacci/bin/Debug/net6.0/Fibonacci.runtimeconfig.json
+/home/leandrobezerra/Projetos/Fibonacci/bin/Debug/net6.0/Fibonacci.dll
+/home/leandrobezerra/Projetos/Fibonacci/bin/Debug/net6.0/Fibonacci.pdb
+/home/leandrobezerra/Projetos/Fibonacci/obj/Debug/net6.0/Fibonacci.dll
+/home/leandrobezerra/Projetos/Fibonacci/obj/Debug/net6.0/refint/Fibonacci.dll
+/home/leandrobezerra/Projetos/Fibonacci/obj/Debug/net6.0/Fibonacci.pdb
+/home/leandrobezerra/Projetos/Fibonacci/obj/Debug/net6.0/Fibonacci.genruntimeconfig.cache
+/home/leandrobezerra/Projetos/Fibonacci/obj/Debug/net6.0/ref/Fibonacci.dll
